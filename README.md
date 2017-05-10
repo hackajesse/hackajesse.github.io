@@ -11,15 +11,15 @@ Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+###About is now called "Timeline"
 
-Images are in '/img/about/'
+Images are in '/img/timeline/'
 
-###Team
+###Team is now called "About"
 
 Team members and info are in '_config.yml'
 
-Images are in '/img/team/'
+Images are in '/img/about/'
 
 
 # Demo

@@ -10,8 +10,8 @@ description: "Congratulations! You spelled 'Biroscak' correctly. Go here for Jes
 # Team names, titles and social links
 people:
 - name: Jesse Biroscak
-  pic: jesse-smiling-small.jpg
-#  position: 
+  pic: jesse-350px
+  position: 
   social:
     - title: twitter
       url: http://twitter.com/jbiroscak
