@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/beach-jump.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -279,6 +279,7 @@ header {
 }
 
 header .intro-text {
+    color: #0d0d0d;
     padding-top: 100px;
     padding-bottom: 50px;
 }
@@ -286,6 +287,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
+    text-shadow: 2px 2px #fff;
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
@@ -295,6 +297,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
+    text-shadow: 2px 2px #fff;
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
@@ -302,7 +305,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
